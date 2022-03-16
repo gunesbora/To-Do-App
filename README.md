@@ -15,11 +15,11 @@ Users should be able to:
 
 ### Screenshot
 
-
+![Project main Snapshot](main.png)
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://gunesbora.github.io/To-Do-App/
 
 ### Built with
 
